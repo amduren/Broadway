@@ -19,12 +19,24 @@ p {
   font-size: 18px;
 }
 
+.header {
+  background-image: url("./background-images/the-flatiron-building.png");
+}
+
 .footer {
   background-color: dimgray;
   text-align: left;
+}
+
+.header, .footer {
   color: white;
 }
 
 .footer p {
   font-size: 11px;
+}
+
+.btn-nav {
+  color: white;
+  font-size: 18px;
 }
