@@ -18,3 +18,13 @@ h3 {
 p {
   font-size: 18px;
 }
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+}
+
+.footer p {
+  font-size: 11px;
+}
